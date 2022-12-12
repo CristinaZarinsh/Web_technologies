@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(126, 17, 17, 0.66);
+}
+
+h1 {
+    color: rgb(53, 9, 9);
+}
+
+h2 {
+    color: rgb(11, 53, 13);
+}
+
+a {
+    color: rgb(95, 1, 1);
+}
+
+ul,
+ol {
+    color: rgb(7, 57, 30);
+}
